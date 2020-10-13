@@ -1,0 +1,29 @@
+
+-------------- ТАБЛИЦА ИДЕНТИФИКАТОРОВ  -------------------- Дата: 20.12.2018 16:52:09 ------------ 
+
+|  №  |Строка в ТЛ| Тип Идентификатора |        Имя        | Значение (Параметры)
+|   0 |      2    |  number   function |                   s | P0:NM | P1:NM |
+|   1 |      5    |  number  parameter |                  sd |
+|   2 |      8    |  number  parameter |                  se |
+|   3 |     13    |  number   variable |                sres |0
+|   4 |     21    |  number    literal |                  L0 |5
+|   5 |     33    |  proc     function |               three | P0:LN | P1:LN | P2:NM |
+|   6 |     36    |  string  parameter |                  sa |
+|   7 |     39    |  string  parameter |                  sb |
+|   8 |     42    |  number  parameter |                  sc |
+|   9 |     49    |  string   variable |                  sr |[0]
+|  10 |     53    |  string   LIB FUNC |           catstring | P0:LN | P1:LN |
+|  11 |     75    |  string   variable |             mainstr |[0]
+|  12 |     79    |  string    literal |                  L1 |[6]string
+|  13 |     83    |  number   variable |              maintt |0
+|  14 |     87    |  number   LIB FUNC |             plength | P0:LN |
+|  15 |     97    |  number   variable |               mainx |0
+|  16 |    101    |  number    literal |                  L2 |-7
+|  17 |    105    |  number   variable |               mainy |0
+|  18 |    109    |  number    literal |                  L3 |7
+|  19 |    113    |  number   variable |               maint |0
+|  20 |    126    |  string    literal |                  L4 |[5]Summa
+|  21 |    128    |  string    literal |                  L5 |[4] is 
+
+***********************************************************************
+
